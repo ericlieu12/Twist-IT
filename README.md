@@ -17,6 +17,6 @@ Using xCode and Swift. To read in user movement of phone (like Turn Left, Twist 
 phone to act like a gyroscope. So, tilting is X axis, twisting is Y axis, and rotating is Z axis. <br>
 High Score functionality functions off of using User Defaults. Every time a high score is achieved, it is saved to User Defaults for next time. <br>
 Music and settings (like levels and characters) are also saved using User Defaults. If you choose a music, your choice is saved in User Defaults for next time you launch the app. <br>
-<br> <Copyright </b> <br>
+<br> <b> Copyright </b> <br>
 Noone is allowed to reproduce my code unless you have explicit written permission by me.
 
